@@ -5,7 +5,7 @@ This project focuses on hosting a highly available, secure, and globally accessi
 
 ## 🎥 Project Demonstration
 Watch the full implementation and global CDN delivery here:  
-**[▶️ Watch Project Video on My Portfolio](https://waves.in/project04.html)** 
+**[▶️ Watch Project Video on My Portfolio](https://d2wzfn8f9c4zw5.cloudfront.net/project-04.html)** 
 
 **Project Context:** High-Performance Global Content Delivery  
 **Timeline:** 3 Weeks (Edge Delivery & Security)  
